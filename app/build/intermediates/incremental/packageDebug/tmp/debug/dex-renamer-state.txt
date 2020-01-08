@@ -1,0 +1,4 @@
+#Wed Jan 08 01:15:15 EET 2020
+base.0=C\:\\Users\\BUD\\Downloads\\android-advanced-starter-apps-master\\WalkMyAndroid-Starter\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
